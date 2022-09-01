@@ -1,6 +1,6 @@
 {
-    "name": "photo_demo",
-    "short_name": "photo_demo",
+    "name": "new_demo",
+    "short_name": "new_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
